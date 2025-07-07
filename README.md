@@ -36,10 +36,11 @@ Tesis de especialización en Inteligencia Artificial.
 ### 💍 Aplicaciones Web para Bodas (2024)
 Desarrollo de aplicaciones web para eventos.  
 - Invitación boda
-🔗 [wedding-4kb.pages.dev](https://wedding-4kb.pages.dev)  
-- Save the date (Responsiva)
-🔗 [save-the-date-1hv.pages.dev](http://save-the-date-1hv.pages.dev)  
+🔗 [wedding-4kb.pages.dev](https://wedding-4kb.pages.dev)
 🛠️ React, TailwindCSS
+- Save the date
+🔗 [save-the-date-1hv.pages.dev](http://save-the-date-1hv.pages.dev)  
+🛠️ React, TailwindCSS, Diseño Responsive
 
 ---
 
