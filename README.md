@@ -28,7 +28,7 @@ Me gusta aprender, trabajar en equipo y aplicar soluciones centradas en las pers
 
 ### 🎧 Modelo de ML para detección temprana de pérdida auditiva (2025)
 Tesis de especialización en Inteligencia Artificial.  
-🔗 [Modelo ML para detección de pérdida auditiva](https://github.com/CarolinaPerezOmodeo/modelo-deteccion-perdida-auditiva)  
+🔗 [Modelo ML para detección de pérdida auditiva](https://github.com/CarOmodeo/modelo-deteccion-perdida-auditiva)  
 🧠 Tecnologías: Python, Scikit-learn, MLflow
 
 ---
