@@ -30,7 +30,7 @@ Me gusta aprender, trabajar en equipo y aplicar soluciones centradas en las pers
 
 ### 🌿 Clasificación de hojas con Vision Transformer (2025)  
 Aplicación de *transfer learning* con modelo ViT para clasificación de enfermedades vegetales.  
-🔗 [Clasificación con ViT y fine-tuning](https://github.com/CarOmodeo/vision-transformer-classifier)
+🔗 [Clasificación con ViT y fine-tuning](https://github.com/CarOmodeo/vision-transformer-classifier)  
 🧠 Tecnologías: Python, HuggingFace Transformers, Vision Transformer (ViT), PyTorch
 
 - Comparación entre modelo preentrenado y modelo fine-tuned  
