@@ -43,7 +43,7 @@ Aplicación de *transfer learning* con modelo ViT para clasificación de enferme
 ### 🎧 Modelo de ML para detección temprana de pérdida auditiva (2025)
 Tesis de especialización en Inteligencia Artificial.  
 🔗 [Modelo ML para detección de pérdida auditiva](https://github.com/CarOmodeo/modelo-deteccion-perdida-auditiva)  
-🧠 Tecnologías: Python, Scikit-learn, MLflow
+🧠 Tecnologías: Python, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, Gemini 2.0 Flash
 
 ---
 
