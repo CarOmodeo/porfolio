@@ -11,7 +11,7 @@ Me gusta aprender, trabajar en equipo y aplicar soluciones centradas en las pers
 ## ⚙️ Tecnologías y Herramientas
 
 ### 🧠 IA y Machine Learning
-- Python, Pandas, NumPy, Scikit-learn, Keras, PyTorch, TensorFlow, MLflow
+- Python, Pandas, NumPy, Scikit-learn, Keras, PyTorch, TensorFlow, Transformers, MLflow, HuggingFace
 - Visualización: Matplotlib, Seaborn
 
 ### 💻 Desarrollo Web
@@ -25,6 +25,20 @@ Me gusta aprender, trabajar en equipo y aplicar soluciones centradas en las pers
 ---
 
 ## 🚀 Proyectos destacados
+
+---
+
+### 🌿 Clasificación de hojas con Vision Transformer (2025)  
+Aplicación de *transfer learning* con modelo ViT para clasificación de enfermedades vegetales.  
+🔗 [Clasificación con ViT y fine-tuning](https://github.com/CarOmodeo/vision-transformer-classifier)
+🧠 Tecnologías: Python, HuggingFace Transformers, Vision Transformer (ViT), PyTorch
+
+- Comparación entre modelo preentrenado y modelo fine-tuned  
+- Dataset: `fakewave07/plant-diseases-dataset` (38 clases)  
+- Accuracy final: **99.37%** tras fine-tuning  
+- Técnicas aplicadas: *Data Augmentation*, estratificación, AutoImageProcessor
+
+---
 
 ### 🎧 Modelo de ML para detección temprana de pérdida auditiva (2025)
 Tesis de especialización en Inteligencia Artificial.  
