@@ -32,7 +32,7 @@ Me gusta aprender, trabajar en equipo y aplicar soluciones centradas en las pers
 
 ### 🌤️ Weather Assistant (2025)  
 Asistente conversacional que proporciona el clima actual y pronósticos usando APIs externas.  
-🔗 [Repositorio en GitHub](https://github.com/CarOmodeo/weather-assistant)  
+🔗 [Agente para el clima](https://github.com/CarOmodeo/weather-assistant)  
 🧠 Tecnologías: Python, LangChain, LangGraph, OpenAI GPT, WeatherAPI  
 
 - **Contexto:** Responde preguntas sobre clima actual y pronóstico hasta 3 días en distintas ubicaciones.  
@@ -43,7 +43,7 @@ Asistente conversacional que proporciona el clima actual y pronósticos usando A
 
 ### 🌟 Children Stories Assistant (2025)  
 Asistente conversacional que responde preguntas sobre cuentos infantiles utilizando embeddings y LLM.  
-🔗 [Repositorio en GitHub](https://github.com/CarOmodeo/children-stories-assistant)  
+🔗 [RAG de cuentos infantiles](https://github.com/CarOmodeo/children-stories-assistant)  
 🧠 Tecnologías: Python, LangChain, LangGraph, ChromaDB, HuggingFace Embeddings  
 
 - **Contexto:** Responde preguntas usando los cuentos *La Bella Durmiente*, *Cenicienta* y *Hansel y Gretel*.  
