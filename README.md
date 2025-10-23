@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Carolina Pérez Omodeo
 
-👩‍💻 Especialista en Inteligencia Artificial | 🧠 Ingeniera Biomédica | 💻 Desarrolladora de Software
+👩‍💻 Ingeniera en ML | 🧠 Ingeniera Biomédica | 💻 Desarrolladora de Software
 
 Soy desarrolladora con formación en ingeniería y una gran pasión por aplicar el *machine learning* para resolver problemas reales, especialmente en el ámbito de la salud. Actualmente estoy desarrollando proyectos de inteligencia artificial aplicados a problemas reales, incluyendo modelos de detección temprana de pérdida auditiva y aplicaciones conversacionales utilizando LLMs y LangGraph.
 
