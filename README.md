@@ -103,9 +103,9 @@ Tesis de Ingeniería Biomédica
 
 ## 🎓 Formación
 
-- 📚 Especialización en Inteligencia Artificial – UBA (2024–2025)
-- 🧑‍💻 Programador Universitario – UNT (2020–2023)
-- 🧪 Ingeniería Biomédica – UNT (2010–2021)
+- 📚 Posgrado en Inteligencia Artificial – UBA (2024–2025)
+- 🧑‍💻 Tecnicatura en Programación – UNT (2020–2023)
+- 🧪 Grado en Ingeniería Biomédica – UNT (2010–2021)
 - 🔧 Cisco Python 1 y 2 – Cisco Networking Academy (2024)
 
 ---
